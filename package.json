@@ -1,0 +1,11 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "learn node js",
+  "main": "index.js",
+  "scripts": {
+      "dev": "node index.js"
+  },
+  "author": "Shubham Rawat",
+  "license": "ISC"
+}
